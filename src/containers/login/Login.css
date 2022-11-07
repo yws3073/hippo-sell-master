@@ -1,0 +1,53 @@
+@import "../../css/reset.css";
+
+.loginBox{
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.title{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.inputBox{
+    width: 92%;
+    border-color: #aeaeae;
+    border-radius: 10px;
+    margin-top: 10px;
+
+    font-size: 16px;
+    line-height: 40px;
+    padding-left: 16px;
+}
+
+.loginBtn{
+    width: 100%;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 10px;
+    margin-top: 50px;
+    
+    font-size: 16px;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.inputBoxParent{
+    margin-top: 80px;
+}
+
+.changePw{
+    float: left;
+    font-size: 14px;
+    margin-top: 14px;
+}
+
+.initPw{
+    float: right;
+    font-size: 14px;
+    margin-top: 14px;
+}
